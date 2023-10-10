@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\CMP400 Coursework Resit\Coursework\x64\Debug\Coursework.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\CMP400 Coursework Resit\Coursework\Coursework\corrector_step_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\CMP400 Coursework Resit\Coursework\Coursework\default_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\CMP400 Coursework Resit\Coursework\Coursework\predictor_step_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\CMP400 Coursework Resit\Coursework\Coursework\wave_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\CMP400 Coursework Resit\Coursework\Coursework\wave_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

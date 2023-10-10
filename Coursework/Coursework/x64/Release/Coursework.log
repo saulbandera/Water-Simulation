@@ -1,0 +1,3 @@
+﻿D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\Coursework\simulation_ps.hlsl(54,20-37): error X3548: in vs_2_0 uints can only be used with known-positive values, use int if possible
+  
+  compilation failed; no code produced

@@ -1,0 +1,14 @@
+﻿  AModel.cpp
+  BaseMesh.cpp
+  BaseShader.cpp
+  CubeMesh.cpp
+  Model.cpp
+  OrthoMesh.cpp
+  PlaneMesh.cpp
+  PointMesh.cpp
+  QuadMesh.cpp
+  SphereMesh.cpp
+  TessellationMesh.cpp
+  TriangleMesh.cpp
+AModel.obj : warning LNK4006: "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) already defined in assimp-vc141-mt.lib(assimp-vc141-mt.dll); second definition ignored
+  DXFramework.vcxproj -> D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\lib\Release\DXFramework.lib

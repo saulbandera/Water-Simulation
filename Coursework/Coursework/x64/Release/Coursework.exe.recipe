@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\x64\Release\Coursework.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\x64\Release\wave_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 4\2023\CMP403\DEVELOPMENT 2\cmp301_coursework-1900264\Coursework\x64\Release\wave_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
